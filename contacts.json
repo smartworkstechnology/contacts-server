@@ -1,14 +1,138 @@
-{
-    "anwesh": {
+[
+    {
+        "sulg": "/sunbid-shrestha",
+        "firstName": "Sunbid",
+        "lastName": "Shrestha",
+        "email": "sunbid.shrestha@smartworkstechnology.co",
+        "phone": "1 (415) 723 0588",
+        "location": "San Diego, CA",
+        "designation": "CEO and Co-Founder",
+        "photoLink": "sunbid-shrestha.jpg",
+        "vcardLink": "sunbid-shrestha-vcard.vcf"
+    },
+    {
+        "sulg": "/sudhir-shrestha",
+        "firstName": "Sudhir",
+        "lastName": "Shrestha",
+        "email": "sudhir.shrestha@smartworkstechnology.co",
+        "phone": "977 9851140084",
+        "location": "Kathmandu, Nepal",
+        "designation": "COO and Co-Founder",
+        "photoLink": "sudhir-shrestha.jpg",
+        "vcardLink": "sudhir-shrestha-vcard.vcf"
+    },
+    {
+        "sulg": "/avanish-shrestha",
+        "firstName": "Avanish",
+        "lastName": "Shrestha",
+        "email": "avanish.shrestha@smartworkstechnology.co",
+        "phone": "977 9802826474",
+        "location": "Kathmandu, Nepal",
+        "designation": "Head of Technology and Co-Founder",
+        "photoLink": "avanish-shrestha.jpg",
+        "vcardLink": "avanish-shrestha-vcard.vcf"
+    },
+    {
+        "sulg": "/darshan-shakya",
+        "firstName": "Darshan",
+        "lastName": "Shakya",
+        "email": "darshan.shakya@smartworkstechnology.co",
+        "phone": "1 (672) 513 7575",
+        "location": "Vancouver, Canada",
+        "designation": "Director of Talent Enablement and Co-Founder",
+        "photoLink": "darshan-shakya.jpg",
+        "vcardLink": "darshan-shakya-vcard.vcf"
+    },
+    {
+        "sulg": "/aman-shakya",
+        "firstName": "Aman",
+        "lastName": "Shakya",
+        "email": "aman.shakya@smartworkstechnology.co",
+        "phone": "1 (912) 509 1857",
+        "location": "Savannah, Georgia",
+        "designation": "Creative Design Advisor",
+        "photoLink": "aman-shakya.jpg",
+        "vcardLink": "aman-shakya-vcard.vcf"
+    },
+    {
+        "sulg": "/abishek-shrestha",
+        "firstName": "Abishek",
+        "lastName": "Shrestha",
+        "email": "abishek.shrestha@smartworkstechnology.co",
+        "phone": "977 9823319110",
+        "location": "Kathmandu, Nepal",
+        "designation": "Graphic Deisgner",
+        "vcardLink": "abishek-shrestha-vcard.vcf"
+    },
+    {
+        "sulg": "/ayusha-shrestha",
+        "firstName": "Ayusha",
+        "lastName": "Shrestha",
+        "email": "ayusha.shrestha@smartworkstechnology.co",
+        "phone": "1 (585) 286 8611",
+        "location": "Chicago, Illinois",
+        "designation": "Brand Communications Manager",
+        "vcardLink": "ayusha-shrestha-vcard.vcf"
+    },
+    {
+        "sulg": "/sukrit-shakya",
+        "firstName": "Ayusha",
+        "lastName": "Shrestha",
+        "email": "sukrit.shakya@smartworkstechnology.co",
+        "phone": "977 9841551615",
+        "location": "Lalitpur, Nepal",
+        "designation": "Technical Talent Assessment Specialist",
+        "vcardLink": "sukrit-shakya-vcard.vcf"
+    },
+    {
+        "sulg": "/shahil-pradhan",
+        "firstName": "Shahil",
+        "lastName": "Pradhan",
+        "email": "shahil.pradhan@smartworkstechnology.co",
+        "phone": "977 9801033586",
+        "location": "Kathmandu, Nepal",
+        "designation": "",
+        "vcardLink": "shahil-pradhan-vcard.vcf"
+    },
+    {
+        "sulg": "/meena-maharjan",
+        "firstName": "Meena",
+        "lastName": "Maharjan",
+        "email": "meena.maharjan@smartworkstechnology.co",
+        "phone": "977 9841530764",
+        "location": "Lalitpur, Nepal",
+        "designation": "Accountant",
+        "vcardLink": "meena-maharjan-vcard.vcf"
+    },
+    {
+        "sulg": "/sneha-rasaily",
+        "firstName": "Sneha",
+        "lastName": "Rasaily",
+        "email": "sneha.rasaily@smartworkstechnology.co",
+        "phone": "977 9841530764",
+        "location": "Lalitpur, Nepal",
+        "designation": "Marketing and Talent Acquisition Manager",
+        "photoLink": "sneha-rasaily.jpg",
+        "vcardLink": "sneha-rasaily-vcard.vcf"
+    },
+    {
+        "sulg": "/anwesh-dahal",
         "firstName": "Anwesh",
-        "middleName": "",
         "lastName": "Dahal",
-        "email": "anwesh@beamlab.co",
-        "designation":"Software Developer",
-        "website": "anweshdahal.github.io",
-        "instagram": "anwesh_dahal",
-        "linkedin": "anweshdahal1",
-        "photoLink": "anwesh-dahal.jpg",
-        "qrLink": "anwesh-dahal.png"
-    }
-}
+        "email": "anwesh.dahal@smartworkstechnology.co",
+        "phone": "977 9807038870",
+        "location": "Bhaktapur, Nepal",
+        "designation": "Developer",
+        "vcardLink": "anwesh-dahal-vcard.vcf"
+    },
+    {
+        "sulg": "/pratik-amatya",
+        "firstName": "Pratik",
+        "lastName": "Amatya",
+        "email": "pratik.amatya@smartworkstechnology.co",
+        "phone": "977 9818154019",
+        "location": "Lalitpur, Nepal",
+        "designation": "Developer",
+        "vcardLink": "pratik-amatya-vcard.vcf"
+    },
+]
