@@ -1,9 +1,8 @@
 BEGIN:VCARD
-VERSION:4.0
-FIRST:Anwesh
-LAST:Dahal
-PHONE:977 9807038870
-EMAIL:anwesh.dahal@smartworkstechnology.co
-FN:Anwesh Dahal
-REV:1694743031419
+VERSION:3.0
+FN;CHARSET=UTF-8:Anwesh Dahal
+N;CHARSET=UTF-8:;Anwesh;Dahal;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:anwesh.dahal@smartworkstechnology.co
+TEL;TYPE=CELL:977 9807038870
+REV:2023-09-15T11:13:00.015Z
 END:VCARD

@@ -1,9 +1,8 @@
 BEGIN:VCARD
-VERSION:4.0
-FIRST:Darshan
-LAST:Shakya
-PHONE:1 (672) 513 7575
-EMAIL:darshan.shakya@smartworkstechnology.co
-FN:Darshan Shakya
-REV:1694743031419
+VERSION:3.0
+FN;CHARSET=UTF-8:Darshan Shakya
+N;CHARSET=UTF-8:;Darshan;Shakya;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:darshan.shakya@smartworkstechnology.co
+TEL;TYPE=CELL:1 (672) 513 7575
+REV:2023-09-15T11:14:52.752Z
 END:VCARD

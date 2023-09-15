@@ -1,9 +1,8 @@
 BEGIN:VCARD
-VERSION:4.0
-FIRST:Abhishek
-LAST:Shrestha
-PHONE:977 9823319110
-EMAIL:abhishek.shrestha@smartworkstechnology.co
-FN:Abhishek Shrestha
-REV:1694743031419
+VERSION:3.0
+FN;CHARSET=UTF-8:Abhishek Shrestha
+N;CHARSET=UTF-8:;Abhishek;Shrestha;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:abhishek.shrestha@smartworkstechnology.co
+TEL;TYPE=CELL:977 9823319110
+REV:2023-09-15T11:13:00.015Z
 END:VCARD

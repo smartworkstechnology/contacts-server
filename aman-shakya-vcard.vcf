@@ -1,9 +1,8 @@
 BEGIN:VCARD
-VERSION:4.0
-FIRST:Aman
-LAST:Shakya
-PHONE:1 (912) 509 1857
-EMAIL:aman.shakya@smartworkstechnology.co
-FN:Aman Shakya
-REV:1694743031419
+VERSION:3.0
+FN;CHARSET=UTF-8:Aman Shakya
+N;CHARSET=UTF-8:;Aman;Shakya;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:aman.shakya@smartworkstechnology.co
+TEL;TYPE=CELL:1 (912) 509 1857
+REV:2023-09-15T11:13:00.015Z
 END:VCARD
