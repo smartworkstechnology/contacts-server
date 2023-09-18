@@ -1,9 +1,8 @@
 BEGIN:VCARD
-VERSION:4.0
-FIRST:Sneha
-LAST:Rasaily
-PHONE:977 9808357371
-EMAIL:sneha.rasaily@smartworkstechnology.co
-FN:Sneha Rasaily
-REV:1694743031419
+VERSION:3.0
+FN;CHARSET=UTF-8:Sneha Rasaily
+N;CHARSET=UTF-8:;Sneha;Rasaily;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sneha.rasaily@smartworkstechnology.co
+TEL;TYPE=CELL:977 9808357371
+REV:2023-09-15T11:14:52.752Z
 END:VCARD

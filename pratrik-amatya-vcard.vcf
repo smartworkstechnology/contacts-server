@@ -1,9 +1,8 @@
 BEGIN:VCARD
-VERSION:4.0
-FIRST:Pratik
-LAST:Amatya
-PHONE:977 9818154019
-EMAIL:pratik.amatya@smartworkstechnology.co
-FN:Pratik Amatya
-REV:1694743031419
+VERSION:3.0
+FN;CHARSET=UTF-8:Pratik Amatya
+N;CHARSET=UTF-8:;Pratik;Amatya;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:pratik.amatya@smartworkstechnology.co
+TEL;TYPE=CELL:977 9818154019
+REV:2023-09-15T11:14:52.752Z
 END:VCARD

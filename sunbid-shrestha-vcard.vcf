@@ -1,9 +1,8 @@
 BEGIN:VCARD
-VERSION:4.0
-FIRST:Sunbid
-LAST:Shrestha
-PHONE:1 (415) 723 0588
-EMAIL:sunbid.shrestha@smartworkstechnology.co
-FN:Sunbid Shrestha
-REV:1694743031418
+VERSION:3.0
+FN;CHARSET=UTF-8:Sunbid Shrestha
+N;CHARSET=UTF-8:;Sunbid;Shrestha;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sunbid.shrestha@smartworkstechnology.co
+TEL;TYPE=CELL:1 (415) 723 0588
+REV:2023-09-15T11:14:52.752Z
 END:VCARD

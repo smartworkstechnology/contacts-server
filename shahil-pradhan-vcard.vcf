@@ -1,9 +1,8 @@
 BEGIN:VCARD
-VERSION:4.0
-FIRST:Shahil
-LAST:Pradhan
-PHONE:977 9801033586
-EMAIL:shahil.pradhan@smartworkstechnology.co
-FN:Shahil Pradhan
-REV:1694743031419
+VERSION:3.0
+FN;CHARSET=UTF-8:Sahil Pradhan
+N;CHARSET=UTF-8:;Sahil;Pradhan;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:sahil.pradhan@smartworkstechnology.co
+TEL;TYPE=CELL:977 9801033586
+REV:2023-09-15T11:14:52.752Z
 END:VCARD
