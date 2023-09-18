@@ -1,9 +1,8 @@
 BEGIN:VCARD
-VERSION:4.0
-FIRST:Ayusha
-LAST:Shrestha
-PHONE:1 (585) 286 8611
-EMAIL:ayusha.shrestha@smartworkstechnology.co
-FN:Ayusha Shrestha
-REV:1694743031419
+VERSION:3.0
+FN;CHARSET=UTF-8:Ayusha Shrestha
+N;CHARSET=UTF-8:;Ayusha;Shrestha;;
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:ayusha.shrestha@smartworkstechnology.co
+TEL;TYPE=CELL:1 (585) 286 8611
+REV:2023-09-15T11:13:00.015Z
 END:VCARD
