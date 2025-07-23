@@ -134,5 +134,15 @@
         "location": "Lalitpur, Nepal",
         "designation": "Developer",
         "vcardLink": "pratik-amatya-vcard.vcf"
+    },
+    {
+        "slug": "/surya-pokhrel",
+        "firstName": "Surya",
+        "lastName": "Pokhrel",
+        "email": "surya.pokhrel@digu.one",
+        "phone": "977 9816541646",
+        "location": "Kathmandu, Nepal",
+        "designation": "Developer",
+        "vcardLink": ""
     }
 ]
