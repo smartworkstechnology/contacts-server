@@ -145,5 +145,16 @@
         "designation": "Developer",
         "photoLink": "surya-pokhrel.jpg",
         "vcardLink": "surya-pokhrel.vcf"
+    },
+    {
+        "slug": "/govinda-khabas",
+        "firstName": "Govinda",
+        "lastName": "Khabas",
+        "email": "govinda.khabas@digu.one",
+        "phone": "977 9767485433",
+        "location": "Kathmandu, Nepal",
+        "designation": "QA Engineer",
+        "photoLink": "govinda-khabas.jpg",
+        "vcardLink": "surya-pokhrel.vcf"
     }
 ]
