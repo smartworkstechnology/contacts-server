@@ -143,7 +143,7 @@
     "phone": "977 9816541646",
     "location": "Kathmandu, Nepal",
     "designation": "Developer",
-    "photoLink": "surya-pokhrel.jpeg",
+    "photoLink": "surya-pokhrel.jpg",
     "vcardLink": "surya-pokhrel.vcf"
   },
   {
@@ -165,5 +165,25 @@
     "location": "Kathmandu, Nepal",
     "designation": "Full-Stack Developer",
     "photoLink": "bijen-gurung.jpg"
+  },
+  {
+    "slug": "/madhav-acharya",
+    "firstName": "Madhav",
+    "lastName": "Acharya",
+    "email": "madhav.acharya@digu.one",
+    "phone": "977 9862706340",
+    "location": "Kathmandu, Nepal",
+    "designation": "UI/UX Designer",
+    "photoLink": "madhav-acharya.jpg"
+  },
+  {
+    "slug": "/nikisha-shrestha",
+    "firstName": "Nikisha",
+    "lastName": "Shrestha",
+    "email": "nikisha.shrestha@digu.one",
+    "phone": "977 9820550022",
+    "location": "Kathmandu, Nepal",
+    "designation": "Talent Acquisition",
+    "photoLink": "nikisha-shrestha.jpg"
   }
 ]
