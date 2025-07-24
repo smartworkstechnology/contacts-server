@@ -136,6 +136,16 @@
     "vcardLink": "pratik-amatya-vcard.vcf"
   },
   {
+    "slug": "/nikisha-shrestha",
+    "firstName": "Nikisha",
+    "lastName": "Shrestha",
+    "email": "nikisha.shrestha@digu.one",
+    "phone": "977 9820550022",
+    "location": "Kathmandu, Nepal",
+    "designation": "Talent Acquisition",
+    "photoLink": "nikisha-shrestha.jpg"
+  },
+  {
     "slug": "/surya-pokhrel",
     "firstName": "Surya",
     "lastName": "Pokhrel",
@@ -175,15 +185,5 @@
     "location": "Kathmandu, Nepal",
     "designation": "UI/UX Designer",
     "photoLink": "madhav-acharya.jpg"
-  },
-  {
-    "slug": "/nikisha-shrestha",
-    "firstName": "Nikisha",
-    "lastName": "Shrestha",
-    "email": "nikisha.shrestha@digu.one",
-    "phone": "977 9820550022",
-    "location": "Kathmandu, Nepal",
-    "designation": "Talent Acquisition",
-    "photoLink": "nikisha-shrestha.jpg"
   }
 ]
