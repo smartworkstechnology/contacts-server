@@ -186,4 +186,14 @@
     "designation": "UI/UX Designer",
     "photoLink": "madhav-acharya.jpg"
   }
+  {
+    "slug": "/aayush-shakya",
+    "firstName": "Aayush",
+    "lastName": "Shakya",
+    "email": "aayush.shakya@digucorp.com",
+    "phone": "977 9820550022",
+    "location": "Kathmandu, Nepal",
+    "designation": "Marketing Associate",
+    "photoLink": ""
+  }
 ]
